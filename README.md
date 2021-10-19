@@ -3,7 +3,7 @@ In questa repository è presente l'architettura Server per la modalità "Gioca O
 L'architettura Client è presente nella seguente repository:
 https://github.com/Martella/Progetto_IGES
 
-ISTRUZIONI PER FAR PARTIRE CORRETTAMENTE LA MODALITA'"Gioca Online":
+ISTRUZIONI PER FAR PARTIRE CORRETTAMENTE LA MODALITA'"Gioca Online"
 --------Istruzioni da compiere una sola volta:
 1) Scarica il progetto presente in questa repository: https://github.com/Martella/Progetto_IGES
 2) Scarica il server presente nella repository: https://github.com/Martella/Progetto_IGES_Server
