@@ -12,6 +12,7 @@ ISTRUZIONI PER FAR PARTIRE CORRETTAMENTE LA MODALITA'"Gioca Online"
 4) Crere una configurazione "RMIregistry" che esegue rmiregistry.exe all'interno della cartella dei progetti
 
 --------Istruzioni da compiere ogni volta che si vuole avviare la modalità "Gioca Online":
+
 5) Eseguire la configurazione "rmic"
 6) Eseguire la configurazione "RMIregistry"
 7) Eseguire la classe Server.java del progetto: https://github.com/Martella/Progetto_IGES_Server
