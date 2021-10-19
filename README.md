@@ -1,4 +1,4 @@
-In questa repository è presente l'architettura Server per la modalità "Gioca Online"
+In questa repository è presente l'architettura Server per la modalità "Gioca Online" del progetto "Strategic Robots"
 
 L'architettura Client è presente nella seguente repository:
 https://github.com/Martella/Progetto_IGES
