@@ -82,7 +82,10 @@ public class Server extends UnicastRemoteObject implements ServerCallbackRemote,
 				//datiPartita = cl.dammiStatoClient();*/
 			}
 		}
-		else log.info("Partita già in corso"); 
+		else {
+			log.info("Partita già in corso");
+			cl.comunicaServerOccupato();
+		} 
 	}
 
 	@Override

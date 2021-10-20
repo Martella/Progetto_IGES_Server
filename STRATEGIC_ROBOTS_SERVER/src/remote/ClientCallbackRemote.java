@@ -9,4 +9,5 @@ import java.rmi.RemoteException;
 public interface ClientCallbackRemote extends Remote {
 	public void aggiornaStatoClient(DatiPartita dp) throws RemoteException;
 	public void assegnaControllore(int numeroControllore) throws RemoteException;
+	public void comunicaServerOccupato() throws RemoteException;
 }
